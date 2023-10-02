@@ -34,3 +34,6 @@ Participar do Projeto Codeways é simples:
 2. **Acesse o Canal Codeways**: O Projeto Codeways terá um canal dedicado onde os desafios serão postados e onde os membros podem discutir soluções e interagir com outros entusiastas da programação.
 
 3. **Comece a Responder Desafios**: Assim que você tiver acesso ao canal Codeways, estará pronto para começar a resolver os desafios e ganhar pontos.
+
+## Você gostaria de contribuir?
+[Clique aqui](https://forms.gle/9V7dezb2ibXTzdcn7) e faça sua inscrição!
