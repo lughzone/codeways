@@ -1,0 +1,41 @@
+{
+  "name": "codeways-bot",
+  "version": "1.0.0",
+  "description": "A fun way to learn programming while socializing!",
+  "main": "src/main.ts",
+  "scripts": {
+    "build": "tsx",
+    "start": "ts-node src/main.ts",
+    "dev": "ts-node-dev src/main.ts",
+    "slash": "ts-node slash.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lughzone/codeways.git"
+  },
+  "keywords": [
+    "Bot",
+    "Discord",
+    "CodeWars",
+    "Educational"
+  ],
+  "author": "Lugh Community",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lughzone/codeways/issues"
+  },
+  "homepage": "https://github.com/lughzone/codeways#readme",
+  "devDependencies": {
+    "@types/node": "*",
+    "@typescript-eslint/eslint-plugin": "^6.7.5",
+    "@typescript-eslint/parser": "^6.7.5",
+    "eslint": "^8.51.0",
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "typescript": "^5.2.2"
+  }
+}
